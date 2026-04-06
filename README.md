@@ -1,7 +1,7 @@
 # Hi, I'm Vinay Kumar 👋
 
 💻 Python & Django Developer
-🚀 Passionate about building scalable web applications
+ Passionate about building scalable web applications
 📍 New Delhi, India
 
 ---
